@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "572162470436",
+    "firebase_url": "https://cloudupload-8dedb.firebaseio.com",
+    "project_id": "cloudupload-8dedb",
+    "storage_bucket": "cloudupload-8dedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572162470436:android:1b52628947913ef5",
+        "android_client_info": {
+          "package_name": "com.example.cloudlisten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572162470436-ionml25rho8hrnjs2nfjcie0hm8bujtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAsNe-2I2kfvR3ipQDjv9Ak8LSlkrjgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572162470436-ionml25rho8hrnjs2nfjcie0hm8bujtf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572162470436-nbnt1n3cojfeudnshpc8hipigf0v0bpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudlisten"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572162470436:android:a2845961f7f69c93",
+        "android_client_info": {
+          "package_name": "com.sidflutterapp.cloud_song_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572162470436-ionml25rho8hrnjs2nfjcie0hm8bujtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAsNe-2I2kfvR3ipQDjv9Ak8LSlkrjgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572162470436-ionml25rho8hrnjs2nfjcie0hm8bujtf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572162470436-nbnt1n3cojfeudnshpc8hipigf0v0bpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudlisten"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

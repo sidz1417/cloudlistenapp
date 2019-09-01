@@ -1,0 +1,32 @@
+name: cloudlisten
+description: Application to upload and listen to songs from the cloud
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_storage:
+  firebase_auth:
+  file_picker:
+  cloud_firestore: 
+  audioplayers:
+  provider:
+  connectivity:
+  flare_flutter:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - animations/
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Black.ttf
