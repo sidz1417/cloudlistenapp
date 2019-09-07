@@ -11,7 +11,7 @@ import 'package:provider/provider.dart';
 class NewHomePage extends StatelessWidget {
   final List<String> _rules = [
     'How to upload songs\n',
-    '1. Press the ' + ' button to upload a song.',
+    '1. Go to uploads tab and press the plus button to upload a song.',
     '2. Songs can only be of .mp3 format & should be <= 10MB.',
     '3. Songs can only have unique names.',
     '4. Songs that fail conditions 2 & 3 will not upload.\n',

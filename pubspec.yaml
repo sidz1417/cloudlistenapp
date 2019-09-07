@@ -11,8 +11,8 @@ dependencies:
     sdk: flutter
   firebase_storage:
   firebase_auth:
-  file_picker:
   cloud_firestore: 
+  file_picker:
   audioplayers:
   provider:
   connectivity:
